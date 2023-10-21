@@ -1,0 +1,3 @@
+[submodule "libfoo"]
+	path = themes/hexo-theme-matery
+	url = https://github.com/lazyironf4ur/hexo-theme-matery.git
