@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-matery
+#theme: hexo-theme-matery
 remote_theme: blinkfox/hexo-theme-matery@v2.0.0
 
 # Deployment
